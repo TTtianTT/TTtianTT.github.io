@@ -26,14 +26,8 @@ In terms of professional experience, I have interned at two renowned organizatio
 
 Currently, from August 2023 to September 2024, I am interning at Microsoft in the [Data Knowledge and Intelligence Group (DKI)](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) in Beijing. Here, I am focusing on fine-tuning large language models for specific tasks on tabular data.
 
-# 📝 Publications 
+{% include_relative includes/pub.md %}
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coling 2024</div><img src='images/Faganet.PNG' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[[FaGANet: An Evidence-Based Fact-Checking Model with Integrated Encoder Leveraging Contextual Information](https://aclanthology.org/2024.lrec-main.621.pdf)](https://aclanthology.org/2024.lrec-main.621/
-
-[Weiyao Luo](https://aclanthology.org/people/w/weiyao-luo/), [Junfeng Ran](https://aclanthology.org/people/j/junfeng-ran/), **[Zailong Tian](https://aclanthology.org/people/z/zailong-tian/)**, [Sujian Li](https://aclanthology.org/people/s/sujian-li/), [Zhifang Sui](https://aclanthology.org/people/z/zhifang-sui/)
 
 # 📖 Educations
 
@@ -43,5 +37,5 @@ Currently, from August 2023 to September 2024, I am interning at Microsoft in th
 
 # 💻 Internships
 
-- *2023.08 - 2024.09(now)*, Microsoft, Data Knowledge and Intelligence Group(DKI), Beijing.
+- *2023.08 - 2024.09(now)*, Microsoft, [Data Knowledge and Intelligence Group(DKI)](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), Beijing.
 - *2023.04 - 2023.07*, Zhihu, China.
