@@ -6,3 +6,6 @@
 [[FaGANet: An Evidence-Based Fact-Checking Model with Integrated Encoder Leveraging Contextual Information](https://aclanthology.org/2024.lrec-main.621.pdf)](https://aclanthology.org/2024.lrec-main.621/
 
 [Weiyao Luo](https://aclanthology.org/people/w/weiyao-luo/), [Junfeng Ran](https://aclanthology.org/people/j/junfeng-ran/), **[Zailong Tian](https://aclanthology.org/people/z/zailong-tian/)**, [Sujian Li](https://aclanthology.org/people/s/sujian-li/), [Zhifang Sui](https://aclanthology.org/people/z/zhifang-sui/)
+
+</div>
+</div>
