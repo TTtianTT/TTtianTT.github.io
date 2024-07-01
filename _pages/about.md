@@ -28,7 +28,7 @@ Currently, from August 2023 to September 2024, I am interning at Microsoft in th
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coling 2024</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coling 2024</div><img src='images/Faganet.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[FaGANet: An Evidence-Based Fact-Checking Model with Integrated Encoder Leveraging Contextual Information](https://aclanthology.org/2024.lrec-main.621.pdf)](https://aclanthology.org/2024.lrec-main.621/
