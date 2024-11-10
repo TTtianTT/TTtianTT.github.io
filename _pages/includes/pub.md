@@ -24,7 +24,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">NLPCC 2024</div>
-      <img src='images/ECPE.PNG' alt="sym" width="100%">
+      <img src='images/ECPE.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
