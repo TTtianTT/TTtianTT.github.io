@@ -1,4 +1,4 @@
-I am currently a third-year Master's student at Peking University, under the guidance of Professor Houfeng Wang, expected to graduate in 06/2024. My research interests lie in large language models (LLMs), natural language processing (NLP), and graph neural networks (GNNs).
+I am currently a third-year Master's student at Peking University, under the guidance of [Professor Houfeng Wang](https://scholar.google.com/citations?hl=en&user=YCX4y1gAAAAJ&view_op=list_works&sortby=pubdate), expected to graduate in 06/2024. My research interests lie in large language models (LLMs), natural language processing (NLP), and graph neural networks (GNNs).
 
 My academic journey began at Wuhan University, where I excelled in Computer Science and Technology. I completed my undergraduate studies at the School of Computer Science, Wuhan University, from 03/2019 to 06/2022, after transitioning from the School of Urban Design at the same university from 09/2018 to 03/2019.
 
