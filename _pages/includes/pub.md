@@ -3,7 +3,7 @@
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Coling 2024</div>
+      <div class="badge">COLING 2024</div>
       <img src='images/Faganet.PNG' alt="sym" width="100%">
     </div>
   </div>
