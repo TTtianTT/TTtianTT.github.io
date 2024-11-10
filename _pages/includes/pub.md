@@ -14,6 +14,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NLPCC 2024</div><img src='images/ECPE.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Leveraging Two-Stream Cause-Effect Relation for Emotion-Cause Analysis
+
 Junfeng Ran, **Zailong Tian**, Weiyao Luo and Sujian Li
 
 </div>
