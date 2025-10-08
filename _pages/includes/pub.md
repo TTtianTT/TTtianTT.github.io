@@ -77,7 +77,7 @@
   </div>
   <div class='paper-box-text' markdown="1">
 
-  Leveraging Two-Stream Cause-Effect Relation for Emotion-Cause Analysis
+  [Leveraging Two-Stream Cause-Effect Relation for Emotion-Cause Analysis](https://link.springer.com/chapter/10.1007/978-981-97-9440-9_33)
 
   [Junfeng Ran](https://aclanthology.org/people/j/junfeng-ran/), 
   [**Zailong Tian**](https://tttiantt.github.io/), 
