@@ -4,7 +4,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background-color: #DAA520; color: #fff;">NeurIPS 2025 Spotlight</div>
-      <img src='assets/data_sample.png' alt="Sheetpedia" width="100%">
+      <img src='images/data_sample.png' alt="Sheetpedia" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -29,7 +29,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">arXiv</div>
-      <img src='llm-as-a-judge.png' alt="LLM-as-a-Judge" width="100%">
+      <img src='images/llm-as-a-judge.png' alt="LLM-as-a-Judge" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
