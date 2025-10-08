@@ -10,9 +10,9 @@
   <div class='paper-box-text' markdown="1">
 
   [Sheetpedia: A 300K-Spreadsheet Corpus for Spreadsheet Intelligence and LLM Fine-Tuning](https://openreview.net/forum?id=4vLYwlA3X5)
-  
-  [![Hugging Face](https://img.shields.io/badge/🤗%20Dataset-Hugging%20Face-yellow)](https://huggingface.co/datasets/tianzl66/Sheetpedia_xlsx)
+  [![Project Page](https://img.shields.io/badge/🌐%20Project-Page-brightgreen)](https://tttiantt.github.io/Sheetpedia/)
   [![PDF](https://img.shields.io/badge/📄%20Paper-PDF-red)](https://openreview.net/forum?id=4vLYwlA3X5)
+  [![Hugging Face](https://img.shields.io/badge/🤗%20Dataset-Hugging%20Face-yellow)](https://huggingface.co/datasets/tianzl66/Sheetpedia_xlsx)
   [![Code](https://img.shields.io/badge/💻%20Code-GitHub-blue)](https://github.com/TTtianTT/Sheetpedia)
 
   [**Zailong Tian**](https://tttiantt.github.io/), 
@@ -59,7 +59,7 @@
 
   [FaGANet: An Evidence-Based Fact-Checking Model with Integrated Encoder Leveraging Contextual Information](https://aclanthology.org/2024.lrec-main.621.pdf)
 
-  [Weiyao Luo](https://aclanthology.org/people/w/weiyao-luo/), 
+  [Weiyao Luo](https://weiyaoluo.github.io/), 
   [Junfeng Ran](https://aclanthology.org/people/j/junfeng-ran/), 
   [**Zailong Tian**](https://tttiantt.github.io/), 
   [Sujian Li](https://aclanthology.org/people/s/sujian-li/), 
@@ -81,7 +81,7 @@
 
   [Junfeng Ran](https://aclanthology.org/people/j/junfeng-ran/), 
   [**Zailong Tian**](https://tttiantt.github.io/), 
-  [Weiyao Luo](https://aclanthology.org/people/w/weiyao-luo/), 
+  [Weiyao Luo](https://weiyaoluo.github.io/), 
   [Sujian Li](https://aclanthology.org/people/s/sujian-li/)
 
   </div>
