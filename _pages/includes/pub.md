@@ -36,8 +36,8 @@
 
   [Overconfidence in LLM-as-a-Judge: Diagnosis and Confidence-Driven Solution](https://arxiv.org/abs/2508.06225)
 
-  [**Zailong Tian**](https://tttiantt.github.io/), 
-  [Zhuoheng Han](https://hzh030430.github.io/), 
+  [**Zailong Tian**](https://tttiantt.github.io/)<sup>*</sup>, 
+  [Zhuoheng Han](https://hzh030430.github.io/)<sup>*</sup>, 
   [Yanzhe Chen](https://chenanno.github.io/), 
   Haozhe Xu, 
   Xi Yang, 
