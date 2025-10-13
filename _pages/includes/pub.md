@@ -20,7 +20,7 @@
   [Houfeng Wang](https://scholar.google.com/citations?hl=en&user=YCX4y1gAAAAJ&view_op=list_works&sortby=pubdate), 
   [Lizi Liao](https://liziliao.github.io/)
   
-  *Singapore Management University & Peking University*
+  *Peking University & Singapore Management University*
 
   </div>
 </div>
